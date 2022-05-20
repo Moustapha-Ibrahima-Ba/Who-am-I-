@@ -6,7 +6,7 @@
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Moustapha Ibrahima Ba
 </h1>
 <h3 align="center">
-  I'm a computer science engineer student and an entrepreneur from Senegal.
+  a Computer Science Engineer Student heading to become a Software Developer
 </h3>
 
 <br/>
@@ -22,20 +22,6 @@
  <p align="center"> ⚡ Fun fact: I play video games very often. </p>
      
 <br/>
-
-<h2 align="center"> 📖🗣 Languages</h2>
-
-  <br/>
-
-  <p align="center"> ENGLISH: ★ ★ ★ ☆ ☆  </p>
- 
-   <br/>
-   
-  <p align="center"> FRENCH: ★ ★ ★ ★ ★  </p>
-  <br/>
-  
-   <p align="center"> WOLOF: ★ ★ ★ ★ ★  </p>
-  
 
   <br/>
 
@@ -58,6 +44,23 @@
   
   <br/>
 
+[![Moustapha Ibrhaima Ba's GitHub Stat](https://github-readme-stats.vercel.app/api?username=Moustapha-Ibrahima-Ba&show_icons=true)](https://github.com/Moustapha-Ibrahima-Ba/github-readme-stats)
+
+
+<br/>
+<h2 align="center"> 📖🗣 Languages</h2>
+
+  <br/>
+
+  <p align="center"> ENGLISH: ★ ★ ★ ☆ ☆  </p>
+ 
+   <br/>
+   
+  <p align="center"> FRENCH: ★ ★ ★ ★ ★  </p>
+  <br/>
+  
+   <p align="center"> WOLOF: ★ ★ ★ ★ ★  </p>
+   
 <br/>
 
 <h2 align="center">📫 Connect With Me </h2>
