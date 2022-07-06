@@ -6,7 +6,7 @@
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Moustapha Ibrahima Ba
 </h1>
 <h3 align="center">
-  a Computer Science Engineer Student heading to become a Software Developer
+  CS Student | Entrepreneur | Leader 
 </h3>
 
 <br/>
